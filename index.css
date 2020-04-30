@@ -85,7 +85,7 @@ body, html {
     margin: 0;
 }
 section {
-    background-image: url(home.png);
+    background-image: url(images/home.png);
     height: 100%;
     background-position: center;
     background-size: cover;
